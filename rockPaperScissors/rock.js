@@ -40,4 +40,4 @@ function playRound(player1, player69) {
 
 }
 
-winner = playRound(players.player1,players.player69)
+playRound(players.player1,players.player69)
