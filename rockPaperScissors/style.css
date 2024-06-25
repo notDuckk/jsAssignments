@@ -1,0 +1,23 @@
+.body1 {
+    color: white;
+    background-color: #484848;
+}
+.score1 {
+    display: flex;
+    color: white;
+    background-color: #484848;
+    justify-content: center;
+}
+.score2 {
+    display: flex;
+    color: white;
+    background-color: #484848;
+    justify-content: center;
+}
+
+.whoWon {
+    display: flex;
+    color: white;
+    background-color: #484848;
+    justify-content: center;
+}
